@@ -32,9 +32,9 @@ body::before {
 
 .principal{
     width: 440px;
-    height: 100%vh;
-    padding: 20px;
-    margin: 20px;
+    
+    padding: 20px 0;
+    margin: 30px;
     border-radius: 12px;
     display: flex; 
     align-items: center;
